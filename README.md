@@ -1,8 +1,3 @@
-<div id='header' align='center'>
-  <img src='https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif'/>
-
-</div>
-
 <h1 align="center">Hi 👋, I'm Sikal</h1>
 <h3 align="center">A passionate self-taught frontend developer from Nigeria</h3>
 
